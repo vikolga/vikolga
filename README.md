@@ -20,6 +20,7 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)&nbsp;
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=light_grey)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FASTAPI-18897b.svg?&style=flat&logo=fastapi&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/FLASK-ADD8E6.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
 
@@ -40,6 +41,7 @@
 
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+[![Django](https://img.shields.io/badge/Djoser-2.2.0-blue?)](https://djoser.readthedocs.io/en/latest/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikolga&show_icons=true)](https://github.com/vikolga/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikolga&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)](https://github.com/Nina2301/github-readme-stats)
