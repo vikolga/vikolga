@@ -1,12 +1,12 @@
 <h1 align="center">Hi there👋 My name is Olga!</h1>
 
-## 👩‍💻 About me
+### 👩‍💻 About me
 
 Я Python-разработчик. 
 <p> Использую Django, DRF, PostgreSQL. </p>
 <p> Настраиваю CI/CD с помощью GitHub Actions. </p>
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 <a href="https://t.me/viktorova_os" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
 </a>
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)
