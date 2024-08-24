@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
 </a>
 
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://spb.hh.ru/applicant/resumes/view?resume=2f706788ff0d8175bc0039ed1f71644c4c5841)
+
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
