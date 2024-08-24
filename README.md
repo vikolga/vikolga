@@ -10,7 +10,9 @@
 
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/viktorova_os)
 
+<!--
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ovreatch)
+-->
 
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://spb.hh.ru/applicant/resumes/view?resume=2f706788ff0d8175bc0039ed1f71644c4c5841)
 
