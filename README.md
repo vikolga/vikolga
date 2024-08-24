@@ -36,6 +36,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23316192.svg?&style=flat&logo=SQLAlchemy&logoColor=white)&nbsp;
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-DC382D.svg?&style=flat&logo=BeautifulSoup&logoColor=white)&nbsp;
+[![Scrapy](https://img.shields.io/badge/-Scrapy-464646?style=flat&logo=Scrapy&logoColor=ffffff&color=013220)](https://scrapy.org/)&nbsp;
 ![Pydantic](https://img.shields.io/badge/Pydantic-DC382D.svg?&style=flat&logo=Pydantic&logoColor=white)&nbsp;
 ![Alembic](https://img.shields.io/badge/Alembic-FCC624?style=flat-square&logo=Alembic&logoColor=black)&nbsp;
 ![Aiogram](https://img.shields.io/badge/Aiogram-269539.svg?&style=flat&logo=Aiogram&logoColor=white)&nbsp;
