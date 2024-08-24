@@ -8,13 +8,9 @@
 
 ### 📫 How to reach me:
 
-<a href="https://t.me/viktorova_os" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</a>
+[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/viktorova_os)
 
-<a href="[https://career.habr.com/ovreatch" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
-</a>
+[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/ovreatch)
 
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://spb.hh.ru/applicant/resumes/view?resume=2f706788ff0d8175bc0039ed1f71644c4c5841)
 
