@@ -1,12 +1,11 @@
-<h1 align="center">Hi there👋 My name is Olga!</h1>
+Меня зовут Ольга Викторова
+---
 
-### 👩‍💻 About me
+Я Python-разработчик.  
+В работе использую Django, DRF, PostgreSQl.
 
-Я Python-разработчик. 
-<p> Использую Django, DRF, PostgreSQL. </p>
-<p> Настраиваю CI/CD с помощью GitHub Actions. </p>
-
-### 📫 How to reach me:
+Связаться со мной
+---
 
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/viktorova_os)
 
